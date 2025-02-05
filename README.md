@@ -4,7 +4,7 @@
 I am a **technology enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring **Machine Learning** and **AI**, and working on my thesis. I have a passion to explore **new technologies** and **problem solving** on various platforms.
 
 - 🌱 I’m currently learning Machine Learning & AI.
-- 💬 Ask me about anything related to Python, Web Development, or Competitive Programming.
+- 💬  I’m interested in **AI**, **.NET**, and **DevOps**.
 - ⚡ Fun fact: I love playing chess and reading books about technology.
 
 ## 🏆 Competitive Programming Summary
