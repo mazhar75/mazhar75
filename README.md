@@ -16,10 +16,10 @@ Here are my competitive programming profiles:
 - **LeetCode**: [petuk](https://leetcode.com/petuk/)
 
 ## 🔧 Technologies & Tools
-- **Languages**: Python, JavaScript, Java, C++
-- **Web Development**: React, Node.js, HTML, CSS
+- **Languages**: C++, C#, Java
+- **Web Development**: HTML, CSS
 - **Databases**: MySQL, MongoDB
-- **DevOps**: Docker, Kubernetes, Jenkins
+- **DevOps**: AWS
 
 ## 📈 GitHub Stats
 ![Md. Mazharul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhar75&show_icons=true&hide_title=true)
