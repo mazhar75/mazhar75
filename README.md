@@ -1,7 +1,7 @@
 # Hello, I'm Md. Mazharul Islam 👨‍💻
 
 ## About Me
-I am a **technology enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I have a passion for solving complex problems and building scalable applications.
+I am a **technology enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring **Machine Learning** and **AI**, and working on my thesis. I have a passion to explore **new technologies** and **problem solving** on various platforms.
 
 - 🌱 I’m currently learning Machine Learning & AI.
 - 💬 Ask me about anything related to Python, Web Development, or Competitive Programming.
