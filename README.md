@@ -28,4 +28,4 @@ Here are my competitive programming profiles:
 - [LinkedIn](https://www.linkedin.com/in/md-mazharul-islamam-7994a5212/)
 - [Facebook](https://www.facebook.com/mazharul.islamnihad.5/)
 - [Gmail](mailto:mazharulnihadmd@gmail.com)
-- [Personal Blog](https://mazharulislam.com)
+
