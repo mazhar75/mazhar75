@@ -1,10 +1,10 @@
 # Hello, I'm Md. Mazharul Islam 👨‍💻
 
 ## About Me
-I am a **technology enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring **Machine Learning** and **AI**, and working on my thesis. I have a passion to explore **new technologies** and **problem solving** on various platforms.
+I am a **Golang enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring  **Golang**, and working on my thesis. I have a passion in **Back-End Engineering** and **problem solving** on various platforms.
 
-- 🌱 I’m currently learning Machine Learning & AI.
-- 💬  I’m interested in **AI**, **.NET**, and **DevOps**.
+- 🌱 I’m currently learning **Go**.
+- 💬  I’m interested in **Go**, **AI**, and **DevOps**.
 - ⚡ Fun fact: I love playing chess and reading books about technology.
 
 ## 🏆 Competitive Programming Summary
@@ -16,10 +16,10 @@ Here are my competitive programming profiles:
 - **LeetCode**: [petuk](https://leetcode.com/petuk/)
 
 ## 🔧 Technologies & Tools
-- **Languages**: C++, C#, Java
+- **Languages**: Java, Javascript, SQL, Go
 - **Web Development**: HTML, CSS
 - **Databases**: MySQL, MongoDB
-- **DevOps**: AWS
+- **DevOps**: AWS(Basic)
 
 ## 📈 GitHub Stats
 ![Md. Mazharul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhar75&show_icons=true&hide_title=true)
