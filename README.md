@@ -38,10 +38,7 @@ I'm currently diving deep into **Go (Golang)**, focusing on:
 
 
 
-<!-- Language Usage -->
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazhar75&layout=compact&langs_count=8&theme=gruvbox&hide=css,html" height="180"/>
-</div>
+
 
 <!-- Optional: WakaTime Stats -->
 <!-- Uncomment if using WakaTime -->
