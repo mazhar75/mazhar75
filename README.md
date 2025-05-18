@@ -4,7 +4,7 @@
 I am a **Golang enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring  **Golang**, and working on my thesis. I have a passion in **Back-End Engineering** and **problem solving** on various platforms.
 
 - 🌱 I’m currently learning **Go**.
-- 💬  I’m interested in **Go**, **AI**, and **DevOps**.
+- 💬  I’m interested in **Go**, **DevOps**, and **AI**.
 - ⚡ Fun fact: I love playing chess and reading books about technology.
 
 ## 🏆 Competitive Programming Summary
@@ -36,9 +36,7 @@ I'm currently diving deep into **Go (Golang)**, focusing on:
 ### 🛠️ Tech Badge
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-### 📊 Golang Activity Tracker
 
-💡 You can track my coding time using tools like **WakaTime** or GitHub stats:
 
 <!-- Language Usage -->
 <div align="center">
