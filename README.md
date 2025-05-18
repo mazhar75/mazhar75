@@ -1,3 +1,4 @@
+
 # Hello, I'm Md. Mazharul Islam 👨‍💻
 
 ## About Me
@@ -16,13 +17,13 @@ Here are my competitive programming profiles:
 - **LeetCode**: [petuk](https://leetcode.com/petuk/)
 
 ## 🔧 Technologies & Tools
-- **Languages**: Java, Javascript, SQL, Go
-- **Web Development**: HTML, CSS
+- **Languages**:  Go, Java, SQL
+- **Web Development**: Javascript, HTML, CSS
 - **Databases**: MySQL, MongoDB
 - **DevOps**: AWS(Basic)
 
 ## 📈 GitHub Stats
-![Md. Mazharul Islam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mazhar75&show_icons=true&hide_title=true)
+<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=mazhar75&show_icons=true&hide_title=false&count_private=true&include_all_commits=true&theme=gruvbox&border_radius=10" height="180"/> <!-- Top Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazhar75&layout=compact&theme=gruvbox&border_radius=10" height="180"/> <!-- Contribution Streak --> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazhar75&theme=gruvbox&border_radius=10" height="180"/> </div>
 
 ## 🌍 Find me on
 - [LinkedIn](https://www.linkedin.com/in/md-mazharul-islamam-7994a5212/)
