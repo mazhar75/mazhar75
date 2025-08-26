@@ -1,7 +1,7 @@
 # Hello, I'm Md. Mazharul Islam 👨‍💻
 
 ## About Me
-I am a **Golang enthusiast** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring  **Golang**, and working on my thesis. I have a passion in **Back-End Engineering** and **problem solving** on various platforms.
+I am a **Golang engineer** and **problem solver**, studying at **Shahjalal University of Science and Technology (SUST)**. I am currently exploring  **Golang**, and working on my thesis. I have a passion in **Back-End Engineering** and **problem solving** on various platforms.
 
 - 🌱 I’m currently learning **Go**.
 - 💬  I’m interested in **Go**, **DevOps**, and **AI**.
@@ -32,6 +32,7 @@ I'm currently diving deep into **Go (Golang)**, focusing on:
 
 ### 🧪 Practice Projects in Go
 - [🔧 mongo-rest-api](https://github.com/mazhar75/mongo-rest-api) –REST API using Go and MongoDB
+- [🔧 ecommerce](https://github.com/mazhar75/ecommerce)Fully functional e-commerce project backend.
 
 ### 🛠️ Tech Badge
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
