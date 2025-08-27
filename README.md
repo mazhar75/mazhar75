@@ -34,11 +34,11 @@ I'm a **Software Engineering Intern** at **Sylergy Digital**, specializing in **
 </div>
 
 ### 🏗️ Technical Stack & Professional Experience
-- **Backend Development**: Go, Java, RESTful APIs, Microservices
+- **Backend Development**: Go, Java, RESTful APIs
 - **Current Role**: Production Go backend development at Sylergy Digital
-- **Frontend Technologies**: JavaScript, HTML5, CSS3
-- **Database Systems**: MySQL, MongoDB, SQL optimization
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Docker basics
+- **Frontend Technologies**: JavaScript
+- **Database Systems**: MySQL, MongoDB, SQL 
+- **Cloud & DevOps**: Docker basics
 - **Development Tools**: Git, GitHub, VS Code, Postman
 - **Professional Skills**: Team collaboration, code review, agile methodologies
 
