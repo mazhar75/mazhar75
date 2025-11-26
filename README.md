@@ -1,17 +1,10 @@
 # Hello, I'm Md. Mazharul Islam 👨‍💻
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern+%7C+Sylergy+Digital;Go+Backend+Developer+%7C+SUST+Graduate;Building+Production+Systems)](https://git.io/typing-svg)
-
-</div>
-
 ## 🚀 About Me
 
-I'm a **Software Engineering Intern** at **Sylergy Digital**, specializing in **Go (Golang)** backend development. Recent graduate from **Shahjalal University of Science and Technology (SUST)** (July 2025) with a strong foundation in competitive programming and a passion for building scalable backend systems.
+I'm a **Jr. AI Solutions Engineer** at **SJ Innovation, Sylhet**, specializing in **Go (Golang), FastAPI and JS** backend  and AI development. Graduate from **Shahjalal University of Science and Technology (SUST)** (July 2025) with a strong foundation in competitive programming and a passion for building scalable backend and AI systems.
 
 ### 🎯 Current Focus
-- 💼 Contributing to production **Go backend systems** at **Sylergy Digital**
 - 🚀 Implementing **enterprise-level solutions** in a professional environment
 - 🌱 Gaining hands-on experience with **industry best practices** and **team collaboration**
 - 💡 Expanding expertise in **DevOps practices** and **cloud technologies**
@@ -34,12 +27,12 @@ I'm a **Software Engineering Intern** at **Sylergy Digital**, specializing in **
 </div>
 
 ### 🏗️ Technical Stack & Professional Experience
-- **Backend Development**: Go, Java, RESTful APIs
-- **Current Role**: Production Go backend development at Sylergy Digital
+- **Backend Development**: Go, JS, FastAPI, RESTful APIs
+- **Current Role**: Jr. AI Solutions Engineer
 - **Frontend Technologies**: JavaScript
-- **Database Systems**: MySQL, MongoDB, SQL 
+- **Database Systems**: Postgresql, MySQL, MongoDB, Chromadb(vectordb), SQL 
 - **Cloud & DevOps**: Docker basics
-- **Development Tools**: Git, GitHub, VS Code, Postman
+- **Development Tools**: Git, GitHub, VS Code, Postman, Github Copilot, Claude Code
 - **Professional Skills**: Team collaboration, code review, agile methodologies
 
 ---
@@ -110,11 +103,7 @@ I maintain active profiles across major competitive programming platforms, consi
 ## 🎯 Professional Journey & Goals
 
 ### 🏢 Current Position
-**Software Engineering Intern** at **Sylergy Digital** (2025 - Present)
-- Developing and maintaining **Go backend services** in production environment
-- Collaborating with senior engineers on **scalable system architecture**
-- Implementing **best practices** for code quality and performance optimization
-- Contributing to **team projects** using agile development methodologies
+**Jr. AI Solutions Engineer** at **Sylergy Digital** (2025 - Present)
 
 ### 📚 Education
 **Bachelor's Degree** - Shahjalal University of Science and Technology (SUST)
