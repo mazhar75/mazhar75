@@ -103,14 +103,14 @@ I maintain active profiles across major competitive programming platforms, consi
 ## 🎯 Professional Journey & Goals
 
 ### 🏢 Current Position
-**Jr. AI Solutions Engineer** at **Sylergy Digital** (2025 - Present)
+**Jr. AI Solutions Engineer** at **SJ Innovation** (2025 - Present)
 
 ### 📚 Education
 **Bachelor's Degree** - Shahjalal University of Science and Technology (SUST)
 *Graduated: July 2025*
 
 ### 🚀 Career Objectives
-- **Immediate**: Excel as a software engineering intern and absorb industry best practices
+- **Immediate**: Excel as a software engineering and absorb industry best practices
 - **Short Term**: Transition to full-time backend engineer role with expanded responsibilities
 - **Long Term**: Architect and lead backend engineering teams in scalable product development
 
