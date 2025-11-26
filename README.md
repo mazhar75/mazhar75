@@ -103,7 +103,7 @@ I maintain active profiles across major competitive programming platforms, consi
 ## 🎯 Professional Journey & Goals
 
 ### 🏢 Current Position
-**Jr. AI Solutions Engineer** at **SJ Innovation** (2025 - Present)
+**Jr. AI Solutions Engineer** at **SJ Innovation** (November, 2025 - Present)
 
 ### 📚 Education
 **Bachelor's Degree** - Shahjalal University of Science and Technology (SUST)
